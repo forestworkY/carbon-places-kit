@@ -6,6 +6,39 @@ Carbon Places Kit is an open-source project concept for turning complex carbon-r
 
 The project focuses on a practical gap between open environmental data and local use: datasets, portals, and code may already exist, but it is still difficult to connect them to what is happening in a specific place, preserve the evidence behind each result, and reuse the same workflow across different local contexts.
 
+## Project concept
+
+[![Carbon Places Kit project concept](docs/project-concept/Carbon_Places_Kit_Concept.png)](docs/project-concept/Carbon_Places_Kit_Concept.pdf)
+
+**Project concept — October 2026**
+
+[View PDF](docs/project-concept/Carbon_Places_Kit_Concept.pdf) · [Download PowerPoint](docs/project-concept/Carbon_Places_Kit_Concept.pptx) · [Browse slide images](docs/project-concept/README.md)
+
+<details>
+<summary><strong>Inline slide preview</strong> (click to expand)</summary>
+
+![Slide 01](docs/project-concept/slides/slide-01.png)
+
+![Slide 02](docs/project-concept/slides/slide-02.png)
+
+![Slide 03](docs/project-concept/slides/slide-03.png)
+
+![Slide 04](docs/project-concept/slides/slide-04.png)
+
+![Slide 05](docs/project-concept/slides/slide-05.png)
+
+![Slide 06](docs/project-concept/slides/slide-06.png)
+
+![Slide 07](docs/project-concept/slides/slide-07.png)
+
+![Slide 08](docs/project-concept/slides/slide-08.png)
+
+![Slide 09](docs/project-concept/slides/slide-09.png)
+
+![Slide 10](docs/project-concept/slides/slide-10.png)
+
+</details>
+
 ## Core idea
 
 Carbon Places Kit treats **place as the translation layer** between environmental data and local understanding.
@@ -51,6 +84,7 @@ The next development steps are:
 
 - [Project concept PDF](docs/project-concept/Carbon_Places_Kit_Concept_2026-10.pdf)
 - [Editable PowerPoint](docs/project-concept/Carbon_Places_Kit_Concept_2026-10.pptx)
+- [Slide image gallery](docs/project-concept/README.md)
 
 ## Intended public value
 
