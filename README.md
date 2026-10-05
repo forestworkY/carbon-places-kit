@@ -8,36 +8,49 @@ The project focuses on a practical gap between open environmental data and local
 
 ## Project concept
 
-[![Carbon Places Kit project concept](docs/project-concept/Carbon_Places_Kit_Concept.png)](docs/project-concept/Carbon_Places_Kit_Concept.pdf)
-
-**Project concept — October 2026**
-
-[View PDF](docs/project-concept/Carbon_Places_Kit_Concept.pdf) · [Download PowerPoint](docs/project-concept/Carbon_Places_Kit_Concept.pptx) · [Browse slide images](docs/project-concept/README.md)
-
-<details>
-<summary><strong>Inline slide preview</strong> (click to expand)</summary>
+### 01 — Project overview
 
 ![Slide 01](docs/project-concept/slides/slide-01.png)
 
+### 02 — Carbon meets place
+
 ![Slide 02](docs/project-concept/slides/slide-02.png)
+
+### 03 — The translation gap
 
 ![Slide 03](docs/project-concept/slides/slide-03.png)
 
+### 04 — The place-based translation layer
+
 ![Slide 04](docs/project-concept/slides/slide-04.png)
+
+### 05 — Why carbon, why places
 
 ![Slide 05](docs/project-concept/slides/slide-05.png)
 
+### 06 — Reusable infrastructure
+
 ![Slide 06](docs/project-concept/slides/slide-06.png)
+
+### 07 — Trust by design
 
 ![Slide 07](docs/project-concept/slides/slide-07.png)
 
+### 08 — Expected public value
+
 ![Slide 08](docs/project-concept/slides/slide-08.png)
+
+### 09 — From concept to proof
 
 ![Slide 09](docs/project-concept/slides/slide-09.png)
 
+### 10 — Carbon Places Kit
+
 ![Slide 10](docs/project-concept/slides/slide-10.png)
 
-</details>
+**Project concept — October 2026**
+
+[View PDF](docs/project-concept/Carbon_Places_Kit_Concept.pdf) · [Download PowerPoint](docs/project-concept/Carbon_Places_Kit_Concept.pptx)
 
 ## Core idea
 
@@ -82,9 +95,8 @@ The next development steps are:
 
 ## Project concept materials
 
-- [Project concept PDF](docs/project-concept/Carbon_Places_Kit_Concept_2026-10.pdf)
-- [Editable PowerPoint](docs/project-concept/Carbon_Places_Kit_Concept_2026-10.pptx)
-- [Slide image gallery](docs/project-concept/README.md)
+- [Project concept PDF](docs/project-concept/Carbon_Places_Kit_Concept.pdf)
+- [Editable PowerPoint](docs/project-concept/Carbon_Places_Kit_Concept.pptx)
 
 ## Intended public value
 
