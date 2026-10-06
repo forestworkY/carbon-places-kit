@@ -1,0 +1,15 @@
+# Operating system metadata
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Local editor settings and backup files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local session history
+.Rhistory
